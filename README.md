@@ -39,6 +39,10 @@ classes = ['downdog', 'goddess', 'plank', 'tree', 'warrior']
 print(f"Predicted Pose: {classes[class_idx]}")
 ```
 
+## Prediction Demo
+<img width="674" height="674" alt="image" src="https://github.com/user-attachments/assets/1846e52b-dde4-478b-8990-d6674f65a123" />
+
+
 ---
 Feel free to contribute or use this model for your own yoga-based applications!
 
